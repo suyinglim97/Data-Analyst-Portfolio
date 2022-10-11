@@ -8,4 +8,5 @@ Further analysis was done to determine the decrease in profit of bikes sales in 
 !<img src = "https://user-images.githubusercontent.com/40571742/194256545-5f15acd6-a69c-4216-8921-5d4aa8993709.png" width = "500" />
 
 
-## Tableau
+## Python
+1. [Tic Tac Toe Using Python](https://github.com/suyinglim97/Data-Analyst-Portfolio/blob/master/Tic%20Tac%20Toe%20Python)
