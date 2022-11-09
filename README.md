@@ -1,6 +1,7 @@
 Hello hello! 👋
 
 ### 💻 I'm Suying, an Aspiring Data Analyst
+‼️ Currently looking for a data analyst role, preferably in Penang or remote.
 
 #### Here are some things about me ✨
 👩🏻‍💻 An engineer by training with 2.5 years of experience as a Product Development Engineer in the semiconductor industry <br>
@@ -15,4 +16,4 @@ Skills: Data analysis, data wrangling and cleaning
 📝 [My data analyst portfolio](https://github.com/suyinglim97/DataAnalystPortfolio.git)
 
 #### Connect with me!
-🤝 [LinkedIn](https://www.linkedin.com/in/suying-lim/)<br
+🤝 [LinkedIn](https://www.linkedin.com/in/suying-lim/)
