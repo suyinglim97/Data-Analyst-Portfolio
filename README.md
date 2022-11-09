@@ -15,5 +15,4 @@ Skills: Data analysis, data wrangling and cleaning
 📝 [My data analyst portfolio](https://github.com/suyinglim97/DataAnalystPortfolio.git)
 
 #### Connect with me!
-🤝 [LinkedIn](https://www.linkedin.com/in/suying-lim/)<br>
-✉️ [Shoot me an e-mail!](mailto:limsuying@outlook.com?subject=[GitHub]%20Hello!)
+🤝 [LinkedIn](https://www.linkedin.com/in/suying-lim/)<br
