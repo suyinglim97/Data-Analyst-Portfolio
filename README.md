@@ -19,5 +19,5 @@ Skills: Data analysis, data wrangling and cleaning
 🤝 [LinkedIn](https://www.linkedin.com/in/suying-lim/)
 
 #### 📚 My Current Reads
-📕 Anwar Returns: The Final Twist
+📕 Anwar Returns: The Final Twist <br>
 📗 O'Reilly Practical Statistics for Data Scientists
